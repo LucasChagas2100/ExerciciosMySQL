@@ -59,4 +59,5 @@ select * from tb_filme where categoria like "fic%";
 
 -- atualize um dado desta tabela através de uma query de atualização
 -- update tb_filme set categoria = "Ação" where id = 4;
+use db_locadora;
 select * from tb_filme
